@@ -9,7 +9,7 @@
 
 示例:
 ```
-<button 输入="button" onclick="Notify.add('Test Error', 'error', 3, 'false')">
+<button type="button" onclick="Notify.add('Test Error', 'error', 3, 'false')">
 ```
 
 ```
